@@ -96,3 +96,11 @@ Building the COVID-19 dashboard presented several challenges along the way. Howe
 
 ## Conclusion
 Developing the COVID-19 dashboard was a challenging yet rewarding journey. Despite the obstacles I faced, I remained determined and found creative solutions to overcome them. By leveraging the libraries of Python, Dash, and Plotly, I was able to create a dynamic and insightful tool for tracking and analyzing COVID-19 confirmed cases.
+
+## Demo
+<img width="1055" alt="image" src="https://github.com/RyanYavari/COVID19_Dashboard/assets/48726914/5533b8a5-9842-489e-96b9-32204a554e05">
+<img width="1208" alt="image" src="https://github.com/RyanYavari/COVID19_Dashboard/assets/48726914/36b60a41-1e90-41e1-aae7-1899c95e1154">
+<img width="1058" alt="image" src="https://github.com/RyanYavari/COVID19_Dashboard/assets/48726914/31d5cf5e-b236-49d6-8c21-ec660724db7a">
+
+
+
