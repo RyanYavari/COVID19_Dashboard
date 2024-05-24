@@ -99,7 +99,7 @@ Developing the COVID-19 dashboard was a challenging yet rewarding journey. Despi
 
 ## Demo
 <img width="1055" alt="image" src="https://github.com/RyanYavari/COVID19_Dashboard/assets/48726914/5533b8a5-9842-489e-96b9-32204a554e05">
-<img width="1208" alt="image" src="https://github.com/RyanYavari/COVID19_Dashboard/assets/48726914/36b60a41-1e90-41e1-aae7-1899c95e1154">
+<img width="1051" alt="image" src="https://github.com/RyanYavari/COVID19_Dashboard/assets/48726914/38d6fe61-d9d5-453f-903e-2fad0276fc7c">
 <img width="1058" alt="image" src="https://github.com/RyanYavari/COVID19_Dashboard/assets/48726914/31d5cf5e-b236-49d6-8c21-ec660724db7a">
 
 
